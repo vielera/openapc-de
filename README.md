@@ -33,6 +33,8 @@ So far, the following German universities have agreed to share information on pa
 - [University of Konstanz](http://www.ub.uni-konstanz.de/openaccess/open-access-publikationsfonds-der-universitaet-konstanz/)
 - [University of Regensburg](http://oa.uni-regensburg.de/)
 
+- Test Uni 
+
 ## Participating Research Society Funds in Germany
 
 Dataset on funds that are supported by research societies under its Open-Access Publishing Programme.
@@ -55,13 +57,13 @@ ation/library)
 
 Information on both open access journal articles and open access publication of articles in toll-access journals ("hybrid") are provided.
 
-In total,  3 706 751€ for  3 029 articles were paid by the participating unviversities. Average  fee is 1 223.8€ and the median 1 190€.
+In total,  3 737 626€ for  3 048 articles were paid by the participating unviversities. Average  fee is 1 226.3€ and the median 1 192€.
 
 ### Open Access Journals
 
 
 
-At the moment, the dataset releases information on 3 016 articles in open access journals which charge publication fees. Total expenditure amounts to  3 682 458€. Average  fee is 1 221€ and the median 1 190€.
+At the moment, the dataset releases information on 3 035 articles in open access journals which charge publication fees. Total expenditure amounts to  3 713 333€. Average  fee is 1 223.5€ and the median 1 190€.
 
 View dataset on [GitHub](https://github.com/OpenAPC/openapc-de/blob/master/data/apc_de.csv).
 
@@ -74,6 +76,7 @@ View dataset on [GitHub](https://github.com/OpenAPC/openapc-de/blob/master/data/
 |Bochum U                                    |       25|             27689|          1108|   1216|
 |Dortmund TU                                 |        9|              8238|           915|    900|
 |Duisburg-Essen U                            |      114|            130989|          1149|   1194|
+|ELAG Test                                   |       19|             30875|          1625|   1568|
 |FU Berlin                                   |       45|             56074|          1246|   1177|
 |FZJ - ZB                                    |       76|             90411|          1190|   1080|
 |GFZ-Potsdam                                 |       60|             69625|          1160|   1062|
@@ -182,7 +185,7 @@ For data enrichment, sample visualisations and explorations we build on the work
 
 ## Contributors
 
-Jochen Apel, Hans-Georg Becker, Roland Bertelmann, Daniel Beucke, Ute Blumtritt, Dorothea Busjahn, Gernot Deinzer, Andrea Dorner,  Clemens Engelhardt, Dominik Hell, Ulrich Herb, Inken Feldsien-Sudhaus, Fabian Franke, Claudia Frick, Kai Karin Geschuhn, Gerrit Kuehle, Doris Jaeger, Stephanie Kroiss, Kathrin Lucht-Roussel, Frank Lützenkirchen, Anja Oberländer, Vitali Peil, Dirk Pieper, Michael Schlachter, Birgit Schlegel, Adriana Sikora, Marco Tullney, Astrid Vieler, Sabine Witt, Najko Jahn
+ELAG Group, Jochen Apel, Hans-Georg Becker, Roland Bertelmann, Daniel Beucke, Ute Blumtritt, Dorothea Busjahn, Gernot Deinzer, Andrea Dorner,  Clemens Engelhardt, Dominik Hell, Ulrich Herb, Inken Feldsien-Sudhaus, Fabian Franke, Claudia Frick, Kai Karin Geschuhn, Gerrit Kuehle, Doris Jaeger, Stephanie Kroiss, Kathrin Lucht-Roussel, Frank Lützenkirchen, Anja Oberländer, Vitali Peil, Dirk Pieper, Michael Schlachter, Birgit Schlegel, Adriana Sikora, Marco Tullney, Astrid Vieler, Sabine Witt, Najko Jahn
 
 ## Contact
 
